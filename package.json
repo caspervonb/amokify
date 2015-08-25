@@ -1,0 +1,13 @@
+{
+  "name": "amokify",
+  "main": "lib/index.js",
+  "author": "Casper Beyer <caspervonb@qup.io>",
+  "license": "MIT",
+  "description": "A webpack loader which complements amok with post-patch evaluation.",
+  "dependencies": {
+    "escodegen": "^1.6.1",
+    "esprima": "^2.5.0",
+    "estraverse": "^4.1.0",
+    "through2": "^2.0.0"
+  }
+}
