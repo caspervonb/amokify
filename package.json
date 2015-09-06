@@ -1,6 +1,7 @@
 {
   "name": "amokify",
   "main": "lib/index.js",
+  "version": "0.0.0",
   "author": "Casper Beyer <caspervonb@qup.io>",
   "license": "MIT",
   "description": "A webpack loader which complements amok with post-patch evaluation.",
